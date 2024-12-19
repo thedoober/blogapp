@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'Render766@')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['host-tut.onrender']
+ALLOWED_HOSTS = ['host-tut.onrender.com']
 
 
 # Application definition
